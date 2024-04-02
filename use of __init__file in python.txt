@@ -1,0 +1,1 @@
+__init__ method is used to instantialize the objects or for intialising the values and we have created a init.py file so that it treats the directory as a python package . This can be empty or it can also contain some initialization code which runs when the package is imported. But in our case it is only used to treat the folder directory as a python package so it is empty.
