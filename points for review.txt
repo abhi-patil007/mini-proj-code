@@ -1,0 +1,16 @@
+scikit-learn: it is a library which is used for performing processing the image and predicting it also to understand the image etc.
+
+cv(computer vision):- it is a library which is basically used for image processing or capturing the image thorugh camera.
+
+PIL(Python Imaging Library):- it is used for opening the captured images in our project
+
+tkinter(toolkinter or toolkit): it is a library which is used for creating a GUI in our project
+
+os(operating system):- this library is used to create folder or directories inside the os to store the captured images.
+
+numpy:- this library is used for dealing with arrays. (the images captured are treated as array[collection of objects or images]. i.e. their dimensions like 150*120 like that so then numpy library does processing on that array).
+
+cv.COLOR_RGB2GRAY:- there is a color function in CV library which converts RGB image to grayscale.
+
+Linear SVC(Linear Support Vector Classifier):- ha image la equally divide karto ani divided image var processing hote.
+
